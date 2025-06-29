@@ -22,7 +22,7 @@ The game includes a simple Java Swing interface that:
 - Shows fall events and winning messages
 
 ## 📁 Project Structure
-
+```bash
 /src
   ├──Team.java                // game on console
   ├──TeamAnim/                // 2 Teams with GUI
@@ -32,7 +32,7 @@ The game includes a simple Java Swing interface that:
     ...                         // pics 
   ├──anim/                    // 1 Team with GUI
     ...                         // same like TeamAnim
-
+```
 
 ## 🚀 Running the Game
 src/Team 				execution console
